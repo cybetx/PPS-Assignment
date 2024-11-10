@@ -1,0 +1,130 @@
+1. Write a program accepts two floating point number and compute
+their ratio. If the ratio is greater than zero then it exchanges the
+contain of these numbers.
+
+
+2. IN A COMPANY AN EMPLOYEE IS PAID AS UNDER: IF HIS
+BASIC SALARY IS LESS THAN 30000, THEN HRA=10% OF THE
+BASIC SALARY AND DA=90% OF THE BASIC SALARY. IF HIS
+SALARY IS EITHER EQUAL TO OR ABOVE 30000’ THEN
+HRA=5000 AND DA=98% OF BASIC SALARY. IF THE
+EMPLOYEE’S SALARY IS INPUT THROUGH THE KEYBOARD,
+WRITE A PROGRAM TO FIND HIS GROSS salary
+
+
+3. Write a program accept three integer and print the greatest
+number amongst them.
+
+
+4. Write a program that accepts two integer for a co ordinate point
+and determines its quadrant.
+
+
+5. Write a program that accepts input any number and find out and
+print reverse of that number
+
+
+6. Write a program that accepts your name and print it for the
+desired number of times.
+
+
+7. WRITE A PROGRAM THAT ILLUSTRATES THE SWITCH
+STATEMENT FOR COMPUTING THE AREA OF DIFFERENT
+GEOMETRICAL FIGURES SUCH AS CIRCLE, SQUARE,
+TRIANGLES, RECTANGLE, ETC. IT DISPLAYS THE MENU OF
+THE FIGURE CODES OF DIFFERENT FIGURES. ON CHOOSING
+A PARTICULAR FIG_CODE, THE CORRESPONDING
+PARAMETERS REQUIRED BY THAT FIGURE ARE ACCEPTED
+AND PROCESSED. FINALLY, THE AREA IS DISPLAYED.
+
+
+8. Write a program that accepts the amount to be deposited, rate of
+interest and print the balance in the amount at the end of the
+year, until the balance exceeds twice the original amount of
+deposit(Assume annual compounding).
+
+
+9. Write a program to print the sum of all odd integer between 1 to 50.
+
+
+10. Write a program to find out sum and average of random numbers.
+
+
+11. Write a program that accepts the colours code for one of the colours of the rainbow and displays its name. And it also asks the programmer whether he/she wants to continue.This program is repeatedly executed as long as user's choice 1.
+
+
+12. Write a program to accepts input N Random number and find out larger and smaller number.
+
+
+13. Write a program that accepts any number and check that the number is Prime or Not Prime.
+
+
+14. Write a program illustrates for loop and displays number 1 to 5.
+
+
+15. Write a program to print the number 5, five times; number 4, four times; number 3, three times; and so on number 1, once.
+
+
+16. Write a program to print the following pattern
+*
+**
+***
+****
+*****
+
+
+17. Write a program to generate the following number pattern
+
+
+1
+2 3 2
+3 4 5 4 3
+4 5 6 7 6 5 4
+5 6 7 8 9 8 7 6 5
+
+
+18. Write a program that print table or 2 to 10 in following format.
+2 3 4 . . . . . . . . . . . . . 10
+4 6 8 . . . . . . . . . . . . . 20
+6 9 12 . . . . . . . . . . . . . 30
+. . . .
+. . . .
+20 30 40 100
+
+
+19. Write a program that find the product of two matrices and prints the product matrix
+
+
+20. Write a program to use various input output functions.
+
+
+21. Write a program for linear search.
+
+
+22. Write a program for bubble sort.
+
+
+23. Write a program to find roots of quadratic equation by using quadratic formula .
+
+
+24. Write a program to calculate factorial of an interger using
+recursion .
+
+
+25. Write a program that accepts any number and find out reverse of that number by recursive function.
+
+
+26. Write a program to print Fibonacci series.
+
+
+27. Write a program to swap two numbers by using Call by Value.
+
+
+28. Write a program to swap two numbers by using Call by reference.
+
+
+29. Write a program that accepts the information of employees
+
+
+30. Write a program that print the address of a variable and its value.
+
